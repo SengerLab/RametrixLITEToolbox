@@ -1,13 +1,11 @@
-The Rametrix(TM) LITE Toolbox is freely-available to academic researchers and can be downloaded here along with a sample dataset. 
+The Rametrix(TM) LITE Toolbox is freely-available to academic researchers and can be downloaded here along with a tutorial (with additional instructions and FAQ section) and a sample dataset. 
 
 Current version available on this site: Rametrix(TM) LITE Toolbox v1.1
 Latest update: October 10, 2018
 
-For reference, please see our article:
+For reference, please see and cite our article:
 
 AK Fisher, WF Carswell, AIM Athamneh, MC Sullivan, JL Robertson, DR Bevan, RS Senger (2018) The Rametrix(TM) LITE Toolbox v1.0 for MATLAB(R). Journal of Raman Spectroscopy. 49(5):885-896.
-
-The Supplementary Appendix for this article contains an instructional guide, and an up-to-date tutorial (with additional instructions and frequently asked questions section) is available here as well.
 
 Installation Instructions:
 
