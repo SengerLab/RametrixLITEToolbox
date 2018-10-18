@@ -1,4 +1,10 @@
 Version History
 
 v1.0 - uploaded 1/12/2018 - The initial Rametrix(TM) LITE Toolbox
-v1.1 - uploaded 10/18/2018 - Contains several fixes to improve performance and visualization. Allows users to name files/samples with barcodes and store/read fields from .csv or Google sheet files.  Enables all spectra from multiple projects to be stored in a single folder library.  Allows spectral averaging to be undone.  Allows spectra to be trimmed at ends easily. Better implementation of baselining and normalization functions. Visual improvements for use on different screen sizes. 
+v1.1 - uploaded 10/18/2018 - Contains several fixes to improve performance and visualization. 
+       Allows users to name files/samples with barcodes and store/read fields from .csv or Google sheet files.  
+       Enables all spectra from multiple projects to be stored in a single folder library.  
+       Allows spectral averaging to be undone.  
+       Allows spectra to be trimmed at ends easily. 
+       Better implementation of baselining and normalization functions. 
+       Visual improvements for use on different screen sizes. 
