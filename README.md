@@ -2,7 +2,9 @@ The Rametrix(TM) LITE Toolbox is freely-available to academic researchers and ca
 
 Most recent version available on this site: Rametrix(TM) LITE Toolbox v1.1
 
-Latest update: October 10, 2018
+NOTE: The tutorial for v1.1 is being completed and will be available before November 1, 2018!
+
+Latest update: October 22, 2018
 
 For reference, please see and cite our article:
 
