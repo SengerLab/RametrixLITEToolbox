@@ -1,10 +1,10 @@
 The Rametrix(TM) LITE Toolbox is freely-available to academic researchers and can be downloaded here along with a tutorial (with additional instructions and FAQ section) and a sample dataset. 
 
+Latest update: October 22, 2018
+
 Most recent version available on this site: Rametrix(TM) LITE Toolbox v1.1
 
-NOTE: The tutorial for v1.1 is being completed and will be available before November 1, 2018!  The sample dataset has been altered to be compatible with v1.1.
-
-Latest update: October 22, 2018
+NOTE: The tutorial for v1.1 is being completed and will be fully available before November 1, 2018!  The 2-nitrophenol calibratino curve sample dataset has been altered to be compatible with v1.1. The dataset compatible with v1.0 is still available through this site.
 
 For reference, please see and cite our article:
 
