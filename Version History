@@ -6,3 +6,9 @@ v1.1 - uploaded 10/18/2018 - Contains several fixes to improve performance and v
        Allows spectra to be trimmed at ends easily. 
        Better implementation of baselining and normalization functions. 
        Visual improvements for use on different screen sizes. 
+v1.2 - uploaded 3/19/2020 - Contains fixes for spectral file types and truncation
+       Allows csv spectral files with any number of header lines and data columns to be read easily
+       Improvements to reac csv formatted Factors files
+       Allows truncation of spectral Raman shift values when decimals are present
+       Improved speed in visualizing multiple spectra for large datasets in the Explore tab
+       Defaults included for reading csv spectra from Wasatch spectrometers
