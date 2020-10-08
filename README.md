@@ -1,5 +1,7 @@
 The Rametrix(TM) LITE Toolbox is freely-available to academic researchers and can be downloaded here along with a tutorial (with additional instructions and FAQ section) and a sample dataset. 
 
+Rametrix(TM) is a registered trademark of DialySensors, Inc. (Blacksburg, VA)
+
 Latest update: March 19, 2020
 
 Most recent version available on this site: Rametrix(TM) LITE Toolbox v1.2
